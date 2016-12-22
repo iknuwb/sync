@@ -1,0 +1,3 @@
+#!/bin/sh -e
+
+rsync -rlptz --del -og --chown=student:student /var/rsyncd/home_student/ /home/student

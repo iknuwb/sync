@@ -1,0 +1,4 @@
+#!/bin/sh -e
+
+mkdir -p /var/rsyncd
+rsync -rlptz --del 172.16.0.1::home_student /var/rsyncd/home_student
