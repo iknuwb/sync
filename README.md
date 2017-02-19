@@ -6,7 +6,7 @@ Keeps workstations clean and ready to work. Synchronizes default configuration b
 
 Based on [rsync project](https://rsync.samba.org/).
 
-Polish
+Polski
 ------
 Utrzymuje stacje robocze czyste i gotowe do pracy. Synchronizuje domyślną konfigurację pomiędzy instalacją wzorcową, a komputerami roboczymi.
 
